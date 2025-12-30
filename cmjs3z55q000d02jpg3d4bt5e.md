@@ -4,7 +4,7 @@ seoTitle: "My Blog Post: A Simple Guide to Turning Ideas Into a Clear, Actionabl
 seoDescription: "Turn a rough blog draft into a clear, readable post with examples, structure, and action steps—plus a reusable writing template."
 datePublished: Tue Dec 30 2025 04:50:05 GMT+0000 (Coordinated Universal Time)
 cuid: cmjs3z55q000d02jpg3d4bt5e
-slug: my-blog-post-turn-ideas-into-a-clear-actionable-article
+slug: my-blog-post-turn-ideas-into-a-clear-actionable-article--deleted
 cover: https://example.com/cover.jpg
 ogImage: https://example.com/cover.jpg
 
