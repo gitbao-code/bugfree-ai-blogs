@@ -4,7 +4,7 @@ seoTitle: "Master Real-Time Analytics with Apache Kafka & Apache Spark | Pipelin
 seoDescription: "Build scalable, fault-tolerant real-time analytics pipelines with Apache Kafka and Spark. Architecture, best practices, and operational tips."
 datePublished: Tue Dec 30 2025 17:18:04 GMT+0000 (Coordinated Universal Time)
 cuid: cmjsup201000102l77vtfh3si
-slug: real-time-analytics-kafka-spark-pipeline
+slug: real-time-analytics-kafka-spark-pipeline--deleted
 cover: https://bugfree-s3.s3.amazonaws.com/mermaid_diagrams/image_1764699355474.png
 ogImage: https://bugfree-s3.s3.amazonaws.com/mermaid_diagrams/image_1764699355474.png
 
