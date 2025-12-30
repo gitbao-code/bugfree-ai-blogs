@@ -4,7 +4,7 @@ seoTitle: "My Blog Post: A Simple Framework to Turn Rough Drafts Into Publish-Re
 seoDescription: "Turn a rough blog draft into a clear, engaging post with a simple structure, examples, and actionable next steps you can use today."
 datePublished: Tue Dec 30 2025 04:35:19 GMT+0000 (Coordinated Universal Time)
 cuid: cmjs3g5cu000902l45kqd6vg7
-slug: my-blog-post-framework-to-turn-rough-drafts-into-publish-ready-content
+slug: my-blog-post-framework-to-turn-rough-drafts-into-publish-ready-content--deleted
 cover: https://example.com/cover.jpg
 ogImage: https://example.com/cover.jpg
 
