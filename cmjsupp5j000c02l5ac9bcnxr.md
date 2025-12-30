@@ -4,7 +4,7 @@ seoTitle: "Meta Data Scientist Interview — SQL, Product Sense & A/B Testing In
 seoDescription: "Real candidate insights: SQL challenge, product-sense design for group calls, NLP suggestions, and A/B testing tips to ace Meta's Data Scientist interview."
 datePublished: Tue Dec 30 2025 17:18:34 GMT+0000 (Coordinated Universal Time)
 cuid: cmjsupp5j000c02l5ac9bcnxr
-slug: meta-data-scientist-interview-bugfree-insights
+slug: meta-data-scientist-interview-bugfree-insights--deleted
 cover: https://hcti.io/v1/image/803d085b-b533-4d83-9df4-71319f2a6f56
 ogImage: https://hcti.io/v1/image/803d085b-b533-4d83-9df4-71319f2a6f56
 
